@@ -1,0 +1,16 @@
+A B 22
+A C 98
+A H 81
+B D 62
+B E 87
+B H 99
+C F 81
+C G 82
+C H 70
+D E 99
+D G 97
+D H 70
+E G 13
+F G 9
+F H 59
+G H 80
